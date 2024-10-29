@@ -10,8 +10,6 @@ ApplicationWindow {
     property real squareWidth: width / 8
     property real squareHeight: height / 8
     property real leftMargin: width / 8
-    property real verticalSpacing: height / 40
-
     Rectangle {
         id: square1
         width: squareWidth
