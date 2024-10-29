@@ -1,3 +1,3 @@
 # qml_1
 
-![src/image.png]
+![Итог](src/image.png)
