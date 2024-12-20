@@ -4,8 +4,8 @@
 
 - [Qml task1](qml1)
 - [Qml task1](qml2_layouts)
-- [LedPhotoDistributedSerial](led_photo_distributed_serial)
-- [MQTT_auditorium](MQTT_auditorium)
+- [Qml task1](qml3_click)
+- [Qml task1](MQTT_auditorium)
 - [MQTT](MQTT)
 - [LedPhotoMQTT](LedPhotoMQTT)
 - [LedMatrix](LedMatrix)
