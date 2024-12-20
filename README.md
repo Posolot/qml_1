@@ -3,11 +3,10 @@
 Задания:
 
 - [Qml task1](qml1)
-- [Qml task1](qml2_layouts)
-- [Qml task1](qml3_click)
-- [Qml task1](MQTT_auditorium)
-- [MQTT](MQTT)
-- [LedPhotoMQTT](LedPhotoMQTT)
-- [LedMatrix](LedMatrix)
-- [LedMatrix8x8](LedMatrix8x8)
-- [LedMatrix8x8_registers](LedMatrix8x8_registers)
+- [Qml task2](qml2_layouts)
+- [Qml task3](qml3_click)
+- [Qml task4](qml_4)
+- [Qml task5](qml_5)
+- [Qml task6](qml_6)
+- [Qml task7](qml_7)
+- [Qml task8](qml_8)
